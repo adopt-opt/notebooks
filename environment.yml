@@ -1,0 +1,10 @@
+name: ocp-models
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.10.*
+  - pyjson
+  - matplotlib
+
+# Not finished right now, still needs the completed list of dependencies
