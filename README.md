@@ -25,4 +25,16 @@ and then activate the environment with
 conda activate adopt-notebooks
 ```
 
-After which you should be able to either launch a local Jupyter server, or run the notebooks inside of your IDE.
+After which you should be able to either launch a 
+[local Jupyter server](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a), or run the notebooks
+inside of your IDE.
+
+## Content
+
+#### Jaxfluids
+* [Small Cylinder Flow Environment](./jaxfluids/debug_example.ipynb)
+* [Design Optimization Objective](./jaxfluids/design_objective.ipynb)
+
+#### Container SSH / K8s
+
+* [Access with Container SSH](./k8s-usage/container_ssh.ipynb)
