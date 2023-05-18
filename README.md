@@ -33,7 +33,9 @@ inside of your IDE.
 
 #### Jaxfluids
 * [Small Cylinder Flow Environment](./jaxfluids/debug_example.ipynb)
-* [Design Optimization Objective](./jaxfluids/design_objective.ipynb)
+
+#### Design Optimization
+* [Design Optimization Objective](./design-optimization/design_object_eval.ipynb)
 
 #### Container SSH / K8s
 
